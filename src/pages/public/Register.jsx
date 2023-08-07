@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import Jumbotron from "../components/cards/Jumbotron";
+import Jumbotron from "../../components/cards/Jumbotron";
 import toast from "react-hot-toast";
 import axios from "axios";
 

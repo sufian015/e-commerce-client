@@ -1,0 +1,13 @@
+context provide:
+
+1. create the context
+
+2. create the provider function and je je data provide korbo egulo ekta state er moddhe nibo.
+ 3. useEffect er maddhome data localstorage e ase ki na check kore state e set kore dibo
+
+ 4.context. provider er props e context gulo pathabo and context er moddhe children ke receive korbo...
+
+ 5.const useAuth=()=>useContext(AuthContext); evave shortcut banai nibo jno easyly call krte pari;
+
+ 6. export kore dibo..
+ 
